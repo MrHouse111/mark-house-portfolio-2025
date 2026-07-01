@@ -336,7 +336,7 @@ export default function Home() {
               </div>
               <div className="flex gap-4">
                 <a
-                  href="https://play.google.com/store/apps/details?id=com.staklopati.klopati"
+                  href="https://play.google.com/store/apps/details?id=rs.klopati.app"
                   target="_blank"
                   rel="noreferrer"
                   className="text-white border-b border-emerald-500 hover:text-emerald-400 transition-colors pb-1 text-sm font-bold uppercase flex items-center gap-2"
